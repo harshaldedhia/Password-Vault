@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Password Vault</string>
+    <string name="login">Enter Password to Continue</string>
+    <string name="login_button">Continue</string>
+    <string name="set_password">Set a Password</string>
+    <string name="ok">OK</string>
+    <string name="add_new">Add New</string>
+    <string name="view_all">View All</string>
+    <string name="edit">Edit</string>
+    <string name="username">Username:</string>
+    <string name="domain">Domain:</string>
+    <string name="password">Password:</string>
+</resources>
